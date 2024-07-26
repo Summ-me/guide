@@ -11,7 +11,7 @@ Unlock the full potential of your chat experience with **Summme Pro**. Enjoy all
 &nbsp; | Free | Pro
 --- | :---: | :---:
 | | [!button text="Install" variant="ghost"](https://chromewebstore.google.com/detail/summme-text-to-speech-tts/ehefcdakfbkmpeimjcnhdlhjhinhkhpn?hl=en&authuser=0) | [!button Upgrade](https://summ.me/upgrade/)
-Pricing | Free | $11.99/month or $99/year
+Pricing | Free | $11.99/month or $80/year
 Chat history | :icon-check-circle: | :icon-check-circle:
 Chat search | :icon-check-circle: | :icon-check-circle:
 Native built-in browser voice | :icon-check-circle: | :icon-check-circle:

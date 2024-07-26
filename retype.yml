@@ -3,7 +3,7 @@ output: .retype
 url: guide.summ.me
 branding:
   logo: summme-logo.png  
-  label: 1.0.0
+  label: beta
 links:
   - text: Need help? Chat with us!
     link: https://discord.gg/4upf8wZ6mS

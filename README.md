@@ -10,9 +10,6 @@ icon: home
 
 [Summme](https://summ.me/) provides a seamless and enhanced chatting experience by unifying AI chat across various platforms. Focus on your conversations while Summme fills the gaps in functionalities to offer you a consistent high quality chatting experience across all chatbots.
 
-{.callout}
-> “Summme is a game-changer for anyone using multiple chatbots -\
-> it centralizes and enhances the experience like nothing else.” *- Sam - Summ.me creator*
 
 No complex setup is required, and Summme works out-of-the-box with your favorite chatbots, adding features like TTS, STT, and more.
 
@@ -73,9 +70,9 @@ Talk and listen to chatbots effortlessly with built-in TTS and STT, supporting o
 
 ## Support
 
-Do you have a technical support question, found a defect, or would like to make a feature request? Please create an [issue](https://github.com/summmeapp/summme/issues) and we will investigate right away.
+Do you have a technical support question, found a defect, or would like to make a feature request? Join the discord and leave a message in the feedback channel and it will get investigated and looked into te right away.
 
-Do you have a general inquiry? Please feel free to contact us at support@summ.me.
+Do you have a general inquiry? Please feel free to contact us at info@summ.me.
 
 We :heart: feedback.
 
