@@ -76,8 +76,3 @@ Do you have a general inquiry? Please feel free to contact us at info@summ.me.
 
 We :heart: feedback.
 
----
-
-## About the Creator
-
-I'm Sam, the creator of Summme. I started this project in Spring 2023 to add voice responses to various chatbots. As the popularity of AI chat grew, it became challenging to manually code support for new chatbots. In January 2024, I started rebuilding the app to be independent of manual coding, allowing users to pick and add the chatbots they want. Summme 1.0 (released July 2024) now supports TTS and STT for most chatbots with a high success rate. I'd love to hear your feedback at sam@summ.me.
