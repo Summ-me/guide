@@ -5,7 +5,7 @@ order: 10000
 # Start Voice Chatting
 
 
-## Step 1: Signing Up & Pin to Sidebar
+## Step 1: Sign in & Pin to Sidebar
 
 We recommend before you start chatting to create an account with Summ.me to get the most out of this app. This includes having access to:
 - Chat history & search
