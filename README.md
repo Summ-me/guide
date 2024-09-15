@@ -3,76 +3,45 @@ label: "Welcome"
 icon: home
 ---
 
-![](/static/more-chatting-female.jpg)
 
 
-# Welcome to Summme
+# Quick start video
 
-[Summme](https://summ.me/) provides a seamless and enhanced chatting experience by unifying AI chat across various platforms. Focus on your conversations while Summme fills the gaps in functionalities to offer you a consistent high quality chatting experience across all chatbots.
-
-
-No complex setup is required, and Summme works out-of-the-box with your favorite chatbots, adding features like TTS, STT, and more.
-
-The [summ.me](https://summ.me/) website list a directory of 100+ chatbot sites tested with Summme. This is a early showcase for users to discover how managing over a 100+ chatbots can be simplified using Summme's unifying sidebar.
-
-Summme can be installed and set up in minutes, ready to supercharge your chat experience. :+1:
+<iframe width="100%" style="max-width:800px;" height="450" src="https://www.youtube.com/embed/4wdhyJ4aQ9M?si=bV8Qp370Ws2jgRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Quick start :zap::zap::zap:
+# Start Voice Chatting
 
-You can get started with Summme in just a few steps. Here’s how:
 
-### Installation
+## Step 1: Start Chatting
 
-1. **Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/summme-text-to-speech-tts/ehefcdakfbkmpeimjcnhdlhjhinhkhpn) and search for Summme.**
-2. **Click “Add to Chrome” and follow the prompts to install the extension.**
-3. **Once installed, Summme will be ready to enhance your chatbot experience.**
+1. To start voice chatting, go to any chatbot platform you like to use (visit [Summme](https://summ.me) for our comprehensive list of some of the most popular chatbots we’ve highlighted).
 
-That's it! Your new Summme extension should be up and running.
+2. Right-click on the chat box and select **Add voice chat**, then allow the microphone from the permissions prompt.
 
-!!!
+![Right Click](https://cdn.summ.me/home/img/getting-started/step-1-right-click.png)
 
-Summme is available for Chrome and Edge browsers. Make sure to have the latest version of your browser for the best experience. :raised_hands:
+3. Once the Summme vertical toolbar appears and the microphone icon is highlighted red at the bottom right of your screen you can begin chatting.
 
-All operating systems supported: including Mac, Windows, and Linux.
-!!!
+## Step 2: Keyboard Shortcuts
 
----
+If the chatbot is in read aloud mode, the microphone input is in paused mode. 
 
-## Features
+The stop the read aloud and resume chatting use the keyboard shortcut `Ctrl + Space` to stop the read aloud and unpause microphone. 
 
-#### :icon-shield-check: Unified Chat Experience
+This is also a toggle shortcut that you can use to stop and replay the audio.
 
-Summme integrates TTS and STT capabilities across various chat platforms, making interactions more accessible and engaging.
+![Start Speaking](https://cdn.summ.me/home/img/getting-started/step-3-start-speaking-1.png)
 
-#### :icon-zap: Chat History Backup
+## Step 3: (Optional) Sign in & Pin to Sidebar
 
-Summme acts as a central place to backup and view all your chats, mitigating the risk of losing chat history if websites hosting chatbots shut down.
+We recommend before you start chatting to create an account with Summ.me to get the most out of this app. This includes having access to:
+- Chat recent history 
+- Chat search
+- Chat favorites list
 
-#### :icon-gear: Time-Saving
+Secondly, for easier access to features, we also recommend pinning the Summme icon to your toolbar.
 
-Summme consolidates your chat history from multiple sites, saving you time and making it easy to retrieve and search past conversations.
-
-#### :icon-plug: Enhanced Functionality
-
-AI Answer Assist and AI Prompt Assist provide additional functionalities to find relevant web links and suggest new prompts based on your previous conversations.
-
-#### :icon-pencil: Customizability
-
-Tailor Summme to fit your specific needs with advanced control settings, whether for individual chatboxes or applying global settings.
-
-#### :icon-sync: Built-in TTS and STT
-
-Talk and listen to chatbots effortlessly with built-in TTS and STT, supporting over 1000 premium voices in multiple languages.
-
----
-
-## Support
-
-Do you have a technical support question, found a defect, or would like to make a feature request? Join the discord and leave a message in the feedback channel and it will get investigated and looked into te right away.
-
-Do you have a general inquiry? Please feel free to contact us at info@summ.me.
-
-We :heart: feedback.
+![Pin Sidebar](https://cdn.summ.me/guide/pin-sidebar.png)
 
